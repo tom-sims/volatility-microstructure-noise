@@ -5,9 +5,6 @@ from src.experiments import (
     plot_mse,
 )
 
-a = "dylan"
-
-
 def main():
     config = {
         "T": 1.0,
